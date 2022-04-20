@@ -21,6 +21,7 @@ Here's every language!
 - Piet
 - Malbolge
 - Rust
+- Ruby
 - PHP
 - HTML/CSS
 - ~~Scratch (or really any other block-based coding software, such as Construct or GDevelop 5)~~
