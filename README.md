@@ -23,7 +23,7 @@ Here's every language!
 - Rust
 - PHP
 - HTML/CSS
-- Scratch (or really any other block-based coding software, such as Construct or GDevelop 5)
+- ~~Scratch (or really any other block-based coding software, such as Construct or GDevelop 5)~~
 - ~~Lua~~
 - Pico-8 Script
 - Objective C
