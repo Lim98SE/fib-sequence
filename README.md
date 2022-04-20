@@ -20,7 +20,7 @@ Here's every language!
 - Whitespace
 - Piet
 - Malbolge
-~~- Ruby~~
+- ~~Ruby~~
 - PHP
 - HTML/CSS
 - ~~Scratch (or really any other block-based coding software, such as Construct or GDevelop 5)~~
