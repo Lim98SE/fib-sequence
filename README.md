@@ -20,7 +20,6 @@ Here's every language!
 - Whitespace
 - Piet
 - Malbolge
-- Rust
 ~~- Ruby~~
 - PHP
 - HTML/CSS
