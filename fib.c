@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+// Objective C is the same lmao
 #include <stdio.h>
 
 int main() { // Main function
