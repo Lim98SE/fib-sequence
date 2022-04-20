@@ -22,3 +22,12 @@ A list of wanted languages will be here:
 - Whitespace
 - Piet
 - Malbolge
+- Rust
+- PHP
+- HTML/CSS
+- Scratch (or really any other block-based coding software, such as Construct or GDevelop 5)
+- Lua
+- Pico-8 Script
+- Objective C
+- Logisim
+- SQL
