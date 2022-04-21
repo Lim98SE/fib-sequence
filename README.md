@@ -21,11 +21,7 @@ Here's every language!
 - Piet
 - Malbolge
 - ~~Ruby~~
-- PHP
-- HTML/CSS
+~~- PHP~~
 - ~~Scratch (or really any other block-based coding software, such as Construct or GDevelop 5)~~
 - ~~Lua~~
-- Pico-8 Script
-- Objective C
-- Logisim
 - SQL
